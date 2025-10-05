@@ -22,7 +22,7 @@ The leds on the top side need to be red, since i used simple 358 op amps for vol
 
 ### PCB top
 
-![Comparison](./docs/PXL_20251005_134637014.jpg)
+![Comparison](./docs/PXL_20251005_134645765.jpg)
 
 ### Comparison with original Corne V4 on the left, this one on the right
 
