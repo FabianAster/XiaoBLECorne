@@ -15,6 +15,8 @@ Gerber files to order the PCB, are in the repo.
 
 ### PCB bottom and battery
 
+![Comparison](./docs/PXL_20251005_134637014.jpg)
+
 For the case to fit it needs to be a 10345 lipo battery, the charging is handled by the Seeeduino XIAO BLE.
 The leds on the top side need to be red, since i used simple 358 op amps for voltage comparison, and they drop some voltage to their output.
 
