@@ -28,6 +28,8 @@ The LEDs on the top side need to be red, since I used simple 358 op-amps for vol
 
 ![Comparison](./docs/PXL_20251005_140834343.jpg)
 
+## Part List
+
 | Quantity | Part                      | Package/Type |
 | -------- | ------------------------- | ------------ |
 | 4        | 100nF capacitor           | 0603         |
