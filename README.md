@@ -34,16 +34,16 @@ The LEDs on the top side need to be red, since I used simple 358 op-amps for vol
 | -------- | ------------------------- | ------------ |
 | 4        | 100nF capacitor           | 0603         |
 | 4        | AO3401A MOSFET            | SOT-23       |
-| 1        | Switch (SK12D07VG4NSPA)   | -            |
+| 2        | Switch (SK12D07VG4NSPA)   | -            |
 | 46       | Hotswap MX sockets        | -            |
 | 46       | SMD Diode (1N4007L)       | SOD-123      |
 | 2        | Seeed Xiao BLE (nRF52840) | -            |
-| 2        | LM358 SMD                 | SOIC-8       |
-| 1        | Button                    | -            |
-| 4        | Red LED                   | 0603         |
-| 1        | 4.7k Ohm resistor         | 1206         |
-| 3        | 10k Ohm resistor          | 1206         |
-| 1        | 130 Ohm resistor          | 1206         |
-| 1        | 220 Ohm resistor          | 1206         |
-| 1        | 180 Ohm resistor          | 1206         |
-| 1        | 3.6k Ohm resistor         | 1206         |
+| 4        | LM358 SMD                 | SOIC-8       |
+| 2        | Button                    | -            |
+| 8        | Red LED                   | 0603         |
+| 2        | 4.7k Ohm resistor         | 1206         |
+| 6        | 10k Ohm resistor          | 1206         |
+| 2        | 130 Ohm resistor          | 1206         |
+| 2        | 220 Ohm resistor          | 1206         |
+| 2        | 180 Ohm resistor          | 1206         |
+| 2        | 3.6k Ohm resistor         | 1206         |
