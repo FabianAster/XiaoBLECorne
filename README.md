@@ -38,6 +38,8 @@ The LEDs on the top side need to be red, since I used simple 358 op-amps for vol
 | 46       | Hotswap MX sockets        | -            |
 | 46       | SMD Diode (1N4007L)       | SOD-123      |
 | 2        | Seeed Xiao BLE (nRF52840) | -            |
+| 2        | LM358 SMD                 | SOIC-8       |
+| 1        | Button                    | -            |
 | 4        | Red LED                   | 0603         |
 | 1        | 4.7k Ohm resistor         | 1206         |
 | 3        | 10k Ohm resistor          | 1206         |
